@@ -1,12 +1,16 @@
 body{ 
-  background: #CCCCCC;
+  background: #FFFFEO;
 }
 
+
+.principal{
+  background= #FFFFEO;
+  
 p {
   text-align: center;
 }
 em strong {
-  color: #FF0000;
+  color: #FFFACD;
 }  
 #"banner" {
   width: 100%;
