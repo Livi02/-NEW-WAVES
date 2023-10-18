@@ -1,4 +1,8 @@
 header {
+         background: #BBBBBB;
+         padding: 20px 0;
+}
+         
 
          background: #BBBBBB;
   padding: 20px 0; }
@@ -6,8 +10,10 @@ header {
             .caixa {
 
       position: relative;
+                     margin: 0 auto;
               width: 940px; margin:
-                0 auto; }
+                0 auto; 
+            }
 
    nav { position: absolute;
         top: 110px;
@@ -32,3 +38,25 @@ font-size: 22px;
   text-decoration: none;
 
 }
+
+</header>
+<main>
+
+<ul>
+<h2>Pranchas</h2>
+</li>
+<li>
+<h2>
+
+
+
+
+
+
+
+
+
+
+
+</main>
+</body>
